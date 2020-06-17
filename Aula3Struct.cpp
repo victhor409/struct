@@ -7,6 +7,7 @@ float mediaPond(float,float);
 
 int main(){
 
+//struct lolcal
 struct 
 {
     float prova, trab;
